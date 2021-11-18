@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my brand new github site.
 
-You can use the [editor on GitHub](https://github.com/m4dness/m4dness/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### whoami
+Just a man that wants to share his knowledge with the world.
 
 ### Markdown
 
